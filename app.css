@@ -1,0 +1,320 @@
+.mainheader-in-6 {
+    color: #FBFBFB;
+text-align: center;
+font-family: Roboto;
+font-size: 120px;
+align-items: end;
+justify-content: center;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: flex;
+text-transform: uppercase;
+background-image: url(./img/gym2.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+height: 704px;
+}
+
+#gradient-line{
+    background-image: linear-gradient(to right, #6a0eff, #df00bf, #ff007d, #ff0045, #ff5e0e);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 10px;
+
+}
+
+#gtrs{
+
+    padding-top: 80px;
+    margin-left: 320px;
+    margin-bottom: 44px;
+}
+
+.gtr{
+    display: flex;
+    text-align: center;
+    color: #000;
+    width: 688px;
+    color: #1F1F1F;
+text-align: center;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.rs{
+    display: flex;
+    text-align: center;
+    color: #000;
+    width: 688px;
+    color: #1F1F1F;
+text-align: center;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.first-text-part {
+}
+.group-line1 {
+    display: flex;
+    align-items: center;
+    padding-left: 160px;
+    padding-bottom: 40px;
+}
+
+#statyi1{
+    display: flex;
+    padding-left: 210px;
+padding-top: 50px;
+background-color: #ff5e0e0d;
+width: 100%;
+padding-bottom: 60px;
+}
+
+#statyi2{
+    display: flex;
+    padding-top: 60px;
+    justify-content: space-evenly;
+    padding-bottom: 130px;
+}
+
+#statyi3{
+    display: flex;
+    margin-left: 180px;
+
+
+}
+
+
+.line1{
+    height: 2px;
+    background-color: #000;
+    width: 30px;
+}
+
+.line2{
+    height: 2px;
+    background-color: #000;
+    width: 30px;
+}
+
+
+.book {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.lorem-text {
+    color: rgba(0, 0, 0, 0.50);
+text-align: center;
+font-family: Roboto;
+font-size: 14px;
+width: 416px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}
+.dad {
+    margin-left: 100px;
+}
+
+#gymtech{
+    
+margin-left: 100px;
+}
+
+#line3{
+    height: 2px;
+    background-color: #000;
+    width: 30px;
+}
+
+#lorem-riba{
+width: 416px;
+    color: rgba(0, 0, 0, 0.50);
+text-align: center;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}
+
+.second-text-part {
+    display: block;
+    margin-left: 50px;
+    
+    
+}
+.group-line-in-second {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 0px;
+    margin-left: 150px;
+    justify-content: space-evenly;
+    width: 100px;
+}
+.meeting {
+    width: 30px;
+    height: 30px;
+}
+.title-in-mainbout {
+}
+.third-text-part {
+}
+.group-of-items {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100px;
+    margin-left: 150px;
+}
+.linera1 {
+    height: 2px;
+    background-color: #000;
+    width: 30px;
+}
+.books {
+}
+.linera2 {
+    height: 2px;
+    background-color: #000;
+    width: 30px;
+}
+.hhuz {
+}
+.lomer {
+    width: 416px;
+    color: rgba(0, 0, 0, 0.50);
+text-align: center;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: capitalize;
+}
+.kartinka01 {
+    margin-left: 140px;
+}
+
+.mainheader-in-8{
+    color: #FBFBFB;
+text-align: center;
+font-family: Roboto;
+font-size: 120px;
+align-items: end;
+justify-content: center;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: flex;
+text-transform: uppercase;
+background-image: url(./img/gettty.png);
+background-repeat: no-repeat;
+background-size: 100% 100%;
+height: 704px;
+}
+
+.main {
+}
+.title-in-8 {color: #1F1F1F;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-top: 30px;
+}
+.text-in-8 {
+    color: #1F1F1F;
+text-align: center;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+}
+.in-8-email {
+    color: #1F1F1F;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+padding-top: 40px;
+margin-left: 350px;
+
+
+}
+.email-inp {
+    border: 2px solid rgba(31, 31, 31, 0.25);
+    width: 675px;
+    height: 55px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+
+}
+.comment-to-company {
+    color: #1F1F1F;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+margin-left: 350px;
+
+}
+.kamentariya {
+    border: 2px solid rgba(31, 31, 31, 0.25);
+    width: 675px;
+    height: 350px;
+    display: flex;
+    align-items: start;
+    margin-left: 350px;
+    top: 0px; 
+    background-color: #fff;
+}
+.checkb {
+    
+}
+
+.i320i{
+  padding-left: 350px;
+}
+
+.agr {
+    padding-top: 22px;
+    color: #1F1F1F;
+text-align: center;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-left: 12px;
+}
+.clk {
+    color: #FF5E0E;
+font-family: Roboto;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
